@@ -1,0 +1,381 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/RDN9B98/affordable.jpg",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "High-performance gaming laptop with latest graphics card.",
+    "Specification": ["16GB RAM", "1TB SSD", "NVIDIA RTX 3060"],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "product_id": "2",
+    "product_title": "Ultrabook Laptop",
+    "product_image": "https://i.ibb.co.com/Tb2Dv6D/gaming.jpg",
+    "category": "Laptop",
+    "price": 899.99,
+    "description": "Slim and lightweight ultrabook with powerful performance.",
+    "Specification": ["Intel i7", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "3",
+    "product_title": "Business Laptop",
+    "product_image": "https://i.ibb.co.com/Q8xTFV8/convertiable.jpg",
+    "category": "Laptop",
+    "price": 799.99,
+    "description": "Reliable business laptop with solid performance.",
+    "Specification": ["Intel i5", "256GB SSD", "8GB RAM"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "4",
+    "product_title": "2-in-1 Convertible Laptop",
+    "product_image": "https://i.ibb.co.com/YBg1g0z/business.jpg",
+    "category": "Laptop",
+    "price": 749.99,
+    "description": "Versatile 2-in-1 laptop with touch screen.",
+    "Specification": ["Intel i7", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": "32",
+    "product_title": " Convertible Laptop",
+    "product_image": "https://i.ibb.co.com/Q8xTFV8/convertiable.jpg",
+    "category": "Laptop",
+    "price": 742.99,
+    "description": "Versatile 2-in-1 laptop with touch screen.",
+    "Specification": ["Intel i7", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": "5",
+    "product_title": "Affordable Laptop",
+    "product_image": "https://i.ibb.co.com/FsYZjRh/ultra.jpg",
+    "category": "Laptop",
+    "price": 699.99,
+    "description": "Budget-friendly laptop for everyday use.",
+    "Specification": ["Intel i3", "128GB SSD", "8GB RAM"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "6",
+    "product_title": "MacBook Air 2022",
+    "product_image": "https://i.ibb.co.com/FnF6TDc/m2.jpg",
+    "category": "MacBook",
+    "price": 999.99,
+    "description": "The new MacBook Air with M1 chip for unbeatable performance.",
+    "Specification": ["13-inch Retina display", "256GB SSD", "8GB RAM"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "7",
+    "product_title": "MacBook Pro 2021",
+    "product_image": "https://i.ibb.co.com/FnF6TDc/m2.jpg",
+    "category": "MacBook",
+    "price": 1999.99,
+    "description": "Powerful MacBook Pro with M1 Pro chip.",
+    "Specification": ["14-inch display", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "8",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/Q8xTFV8/convertiable.jpg",
+    "category": "MacBook",
+    "price": 1299.99,
+    "description": "The latest MacBook Air with M2 chip for stunning performance.",
+    "Specification": ["13.6-inch Retina display", "256GB SSD", "8GB RAM"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "9",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/0r4f4sv/14.jpg",
+    "category": "iPhone",
+    "price": 899.99,
+    "description": "The latest iPhone with advanced camera features.",
+    "Specification": ["128GB storage", "A16 Bionic chip", "5G capable"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "10",
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/TLzbCG2/13.jpg",
+    "category": "iPhone",
+    "price": 799.99,
+    "description": "Powerful performance with A15 Bionic chip.",
+    "Specification": ["128GB storage", "Dual camera system", "5G capable"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "11",
+    "product_title": "iPhone 12 Mini",
+    "product_image": "https://i.ibb.co.com/27y5mtZ/mini.jpg",
+    "category": "iPhone",
+    "price": 699.99,
+    "description": "Compact and powerful smartphone with advanced features.",
+    "Specification": ["64GB storage", "Dual camera", "A14 Bionic chip"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "12",
+    "product_title": "iPhone SE (2022)",
+    "product_image": "https://i.ibb.co.com/t3kB9P8/12.jpg",
+    "category": "iPhone",
+    "price": 599.99,
+    "description": "Affordable iPhone with great performance.",
+    "Specification": ["64GB storage", "A15 Bionic chip", "Touch ID"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "13",
+    "product_title": "Bluetooth Headphones",
+    "product_image": "https://i.ibb.co.com/6njSG2w/blu.png",
+    "category": "Accessories",
+    "price": 69.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "20 hours battery life",
+      "Lightweight design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "14",
+    "product_title": "Portable SSD 1TB",
+    "product_image": "https://i.ibb.co.com/Z6fkCtk/ssd.jpg",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Fast and compact external SSD for  storage.",
+    "Specification": [
+      "USB-C compatibility",
+      "Read speed up to 1050MB/s",
+      "Durable design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "15",
+    "product_title": "Wireless Charger",
+    "product_image": "https://i.ibb.co.com/6Y5mVhM/charger.jpg",
+    "category": "Accessories",
+    "price": 67.99,
+    "description": "Fast wireless charger for all Qi-enabled devices.",
+    "Specification": ["10W fast charging", "LED indicator", "Compact design"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "16",
+    "product_title": "Laptop Cooling Pad",
+    "product_image": "https://i.ibb.co.com/Q6JQWfb/laptop.jpg",
+    "category": "Accessories",
+    "price": 89.99,
+    "description": "Cooling pad with adjustable fan speeds for laptops.",
+    "Specification": ["Ergonomic design", "USB powered", "Lightweight"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "17",
+    "product_title": "Smart Watch Series 6",
+    "product_image": "https://i.ibb.co.com/2Whv8JT/6.jpg",
+    "category": "Smartwatches",
+    "price": 399.99,
+    "description": "Smart watch with fitness tracking and heart rate monitor.",
+    "Specification": ["GPS", "Water resistant", "Blood oxygen app"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "18",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/xSQw5tb/3.jpg",
+    "category": "Smartwatches",
+    "price": 229.99,
+    "description": "Health and fitness smartwatch with GPS.",
+    "Specification": [
+      "Built-in GPS",
+      "Heart rate monitoring",
+      "Voice assistant"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "19",
+    "product_title": "Garmin Forerunner 245",
+    "product_image": "https://i.ibb.co.com/2Whv8JT/6.jpg",
+    "category": "Smartwatches",
+    "price": 299.99,
+    "description": "Smartwatch for runners with advanced metrics.",
+    "Specification": ["Music storage", "GPS", "Activity tracking"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "20",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/k2Vhyt4/4.jpg",
+    "category": "Smartwatches",
+    "price": 249.99,
+    "description": "Stylish smartwatch with health tracking features.",
+    "Specification": [
+      "Body composition analysis",
+      "Heart rate monitor",
+      "Sleep tracking"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "21",
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://i.ibb.co.com/NVvr3R1/ear.jpg",
+    "category": "Accessories",
+    "price": 149.99,
+    "description": "Comfortable wireless earbuds with high sound quality.",
+    "Specification": [
+      "Active noise cancellation",
+      "30 hours battery life",
+      "IPX4 rated"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "22",
+    "product_title": "Laptop Backpack",
+    "product_image": "https://i.ibb.co.com/qk6dWjW/bag.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Stylish and functional backpack for laptops.",
+    "Specification": [
+      "Padded compartment",
+      "Water-resistant",
+      "Multiple pockets"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "23",
+    "product_title": "HDMI Cable 6ft",
+    "product_image": "https://i.ibb.co.com/Db3KSRz/cable.jpg",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "High-speed HDMI cable for connecting devices.",
+    "Specification": ["Supports 4K", "Gold-plated connectors", "Durable"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "24",
+    "product_title": "Smartphone Gimbal",
+    "product_image": "https://i.ibb.co.com/J2m8XNh/gimbal.jpg",
+    "category": "Accessories",
+    "price": 129.99,
+    "description": "Stabilizer for smartphones for smooth video recording.",
+    "Specification": [
+      "3-axis stabilization",
+      "Bluetooth control",
+      "Lightweight"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "25",
+    "product_title": "Laptop Stand",
+    "product_image": "https://i.ibb.co.com/9rXZTyS/stand.jpg",
+    "category": "Accessories",
+    "price": 89.99,
+    "description": "Adjustable laptop stand for better ergonomics.",
+    "Specification": ["Foldable", "Aluminum alloy", "Heat dissipation"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "26",
+    "product_title": "Smart Watch Series 7",
+    "product_image": "https://i.ibb.co.com/2Whv8JT/6.jpg",
+    "category": "Smartwatches",
+    "price": 399.99,
+    "description": "Latest smartwatch with advanced health tracking.",
+    "Specification": ["Blood oxygen monitoring", "GPS", "Water resistant"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "27",
+    "product_title": "Xiaomi Mi Band 6",
+    "product_image": "https://i.ibb.co.com/xSQw5tb/3.jpg",
+    "category": "Smartwatches",
+    "price": 59.99,
+    "description": "Affordable fitness tracker with AMOLED display.",
+    "Specification": [
+      "Heart rate monitor",
+      "SpO2 tracking",
+      "30+ sports modes"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "28",
+    "product_title": "Fossil Gen 5 Smartwatch",
+    "product_image": "https://i.ibb.co.com/k2Vhyt4/4.jpg",
+    "category": "Smartwatches",
+    "price": 249.99,
+    "description": "Stylish smartwatch with customizable watch faces.",
+    "Specification": ["Wear OS", "Fitness tracking", "Speaker and microphone"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "29",
+    "product_title": "TicWatch Pro 3",
+    "product_image": "https://i.ibb.co.com/2Whv8JT/6.jpg",
+    "category": "Smartwatches",
+    "price": 299.99,
+    "description": "Dual-layer display for long battery life.",
+    "Specification": ["Wear OS", "Heart rate monitor", "GPS"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "30",
+    "product_title": "Smartphone Case",
+    "product_image": "https://i.ibb.co.com/6Yj6Zvf/case.jpg",
+    "category": "Accessories",
+    "price": 53.99,
+    "description": "Durable smartphone case with stylish design.",
+    "Specification": [
+      "Shock-absorbing",
+      "Multiple colors",
+      "Easy access to ports"
+    ],
+    "availability": true,
+    "rating": 4.4
+  }
+]
